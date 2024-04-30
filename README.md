@@ -1,6 +1,6 @@
 # PCS3335
 
-Class of POLI USP, that uses VHDL and teaches hardware synthesis in a hands on methodology.
+Class of POLI USP, that uses VHDL and teaches hardware synthesis through a hands on methodology.
 
 Class 01
 
